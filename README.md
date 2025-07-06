@@ -1,4 +1,4 @@
-# Training Environment Setup Script
+# Bash Scripting for Sysadmin Automation
 
 This Bash script automates the creation of a structured training environment for a batch of students. It sets up personalized directories, generates a `README.md` for each student, logs favorite Linux commands, and performs backup of user data.
 
