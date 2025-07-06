@@ -27,7 +27,7 @@ This Bash script automates the creation of a structured training environment for
 ### 1. Make the script executable
 
 ```bash
-chmod +x setup_script.sh
+chmod +x setup_training_env.sh
 ```
 
 ### 2. Run the script
